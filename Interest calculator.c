@@ -4,7 +4,7 @@
 
 int main()
 {
-    //integers for 
+    //integers decleration
     int ans, t;
     //float variables for rate of interest, simple interest, compound interest, principle amount and time
     float r, si, ci, p;
